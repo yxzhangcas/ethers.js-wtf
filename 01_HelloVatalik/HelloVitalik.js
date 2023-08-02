@@ -20,5 +20,3 @@ const main = async () => {
 main()
 
 
-// npm install ethers
-// node 01_HelloVatalik/HelloVitalik.js

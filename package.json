@@ -1,0 +1,26 @@
+{
+  "name": "ethers.js-wtf",
+  "version": "1.0.0",
+  "description": "npm install ethers",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "aes-js": "^4.0.0-beta.5",
+    "ethers": "^6.6.7",
+    "tslib": "^2.4.0",
+    "ws": "^8.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yxzhangcas/ethers.js-wtf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yxzhangcas/ethers.js-wtf/issues"
+  },
+  "homepage": "https://github.com/yxzhangcas/ethers.js-wtf#readme"
+}
